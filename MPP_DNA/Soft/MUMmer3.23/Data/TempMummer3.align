@@ -1,0 +1,96 @@
+> gi|213137091|gb|FJ198408.1|
+      33       33     30    none      -      -
+     101      101     73    none     38     38
+     Errors = 5
+A: aaattaggttaaggccagggggaaagaaaagatatatgttaaaacacttagtatgggc
+B: aaattaggttgaggccagggggaaagaaacactatatgttaaaacacatagtatgggc
+   ==========^                  ^^^               ^==========
+     206      206     21    none     32     32
+     Errors = 5
+A: aaggctgtaagcaaataatgcgacagctacaaccagctcttcagacaggaac
+B: aaggctgtaaacaaataataaaacagctacaaccagctcttaagacaggaac
+   ==========^        ^^^                   ^==========
+     228      228     24    none      1      1
+     Errors = 1
+A: gaggaacttaaatcattattc
+B: gaggaacttagatcattattc
+   ==========^==========
+     280      280     26    none     28     28
+     Errors = 4
+A: cagtagcaaccctctattgtgtacatgaagacatagaagtacgagaca
+B: cagtagcaactctctattgtgtacatgaaaagatagaggtacgagaca
+   ==========^                  ^ ^     ^==========
+     307      307     24    none      1      1
+     Errors = 1
+A: aagccttagacaagatagagg
+B: aagccttagataagatagagg
+   ==========^==========
+     379      379     24    none     48     48
+     Errors = 7
+A: acaaaacaaaagtcagcaaaaaacacagcaggcaaaagcggctgacgagaaa-gtcagtc
+B: acaaaacaaatgtcagcaaaaggcacagcaggcagaagcggctgacg-gaaaagtcagcc
+   ==========^          ^^           ^            ^    ^     ^=
+A: aaaattatc
+B: aaaattatc
+   =========
+     445      445     29    none     42     42
+     Errors = 7
+A: agtgcagaatgtccaaggccaaatggtacaccaggccatatcacctaggactttgaatgc
+B: agtgcagaatcttcaagggcaaatggtacatcaagccatatcacctagaaccttgaatgc
+   ==========^ ^     ^           ^  ^              ^  ^========
+A: at
+B: at
+   ==
+     475      475     32    none      1      1
+     Errors = 1
+A: taatagaggagaaggctttta
+B: taatagaggaaaaggctttta
+   ==========^==========
+     541      541     51    none     34     34
+     Errors = 3
+A: tacccatgttcacagcattatcagaaggagccaccccacaagatttaaacacca
+B: tacccatgtttacagcattatcagaaggggccaccccacaagacttaaacacca
+   ==========^                 ^              ^==========
+     593      593     40    none      1      1
+     Errors = 1
+A: catgcagatgttaaaagatac
+B: catgcagatgctaaaagatac
+   ==========^==========
+     709      709     50    none     76     76
+     Errors = 10
+A: aatgggatagattacatccagtacatgcaggacctgttgcaccaggccaactgagggagc
+B: aatgggataggttacatccagtgcatgcagggcctattgcaccagggcaattgagggaac
+   ==========^           ^        ^   ^          ^   ^       ^ 
+A: ctaggggaagtgacatagcaggaactactagtaccc
+B: caaggggaagtgatatagcaggaaccactagtaccc
+    ^           ^           ^==========
+     760      760     39    none      1      1
+     Errors = 1
+A: acccacctgtcccagtgggag
+B: acccacctgttccagtgggag
+   ==========^==========
+     868      868     29    none     69     69
+     Errors = 6
+A: aattctggggttaaataaaatagtaagaatgtatagccctgtcagcattttggacataaa
+B: aattctggggctaaataaaatagtgagaatgtatagccctgttagcattttggacataag
+   ==========^             ^                 ^                ^
+A: acaggggccaaaggaaccctttagagact
+B: acaagggccaaaggaaccttttagagact
+      ^              ^==========
+     901      901     47    none      4      4
+     Errors = 4
+A: ggttctttaaggtcttaagagctg
+B: ggttctttaaaactttaagagctg
+   ==========^^^^==========
+     949      949     61    none      1      1
+     Errors = 1
+A: ggatgacagaaaccttgttgg
+B: ggatgacagataccttgttgg
+   ==========^==========
+    1015     1015     62    none      5      5
+     Errors = 2
+A: ttaggaccagcggctacattagaag
+B: ttaggaccaggggccacattagaag
+   ==========^   ^==========
+Region:         33 .. 1076              33 .. 1076            59 / 1044        5.65%
+> gi|213137091|gb|FJ198408.1| Reverse
