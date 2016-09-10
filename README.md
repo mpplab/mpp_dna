@@ -24,6 +24,7 @@ Then, import the existing project 'GeneDataStreamingPublish' in the workspace.
 
 **3. Project settings**
 The parameters need setting are all listed in 'public_data.java'.
+
 Dependency | Version
 ------------ | -------------
 MPP_DataPfx | Data store path prefix. (The path the 'MPP_DNA' downloaded in)
