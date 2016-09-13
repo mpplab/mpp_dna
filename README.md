@@ -11,8 +11,8 @@ Build and test code
 ----------------------
 **0. Requirements**: 
 
-The programe is based on Java 7 and we use Eclipse as integrated development environment.
-All you need to build it is **JDK 7** and **Eclipse**.
+The programe is based on Java 8 and we use Eclipse as integrated development environment.
+All you need to build it is **JDK 8** and **Eclipse**.
 
 **1. Prepare the data**
 
